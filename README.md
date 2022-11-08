@@ -1,1 +1,2 @@
 # CS467
+This course explores up-to-date parallel platforms, such as Cluster computing and Cloud computing that use networked computers to store and process large datasets in parallel. Topics include synchronization techniques, high-performance server/service design, performance issues, distributed file systems and MapReduce framework, VPC technology, Cloud scalability, availability and Cloud architecture. Hands-on assignments and projects are required.
